@@ -2,3 +2,6 @@
 *.npy
 /test_videos
 /real-life-violence-situations-dataset
+/videos
+/share
+*.tar
